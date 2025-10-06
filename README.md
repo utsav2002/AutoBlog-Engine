@@ -1,4 +1,4 @@
-# Autoblog Engine 🚀
+# AutoBlog-Engine 🚀
 
 An AI-powered, fully automated blogging pipeline leveraging n8n, Google Sheets, and Gemini for end-to-end content creation and social media distribution. This project turns a simple Google Sheet into a powerful content strategy and generation dashboard.
 
@@ -6,7 +6,7 @@ An AI-powered, fully automated blogging pipeline leveraging n8n, Google Sheets, 
 
 ## ✨ Overview
 
-Manually handling SEO research, writing articles, and crafting social media posts is time-consuming. **Autoblog Engine** automates the entire process. It starts with a cron job, performs in-depth SEO research, generates high-quality articles, creates corresponding social media posts, and then publishes them, all with minimal human intervention.
+Manually handling SEO research, writing articles, and crafting social media posts is time-consuming. **AutoBlog-Engine** automates the entire process. It starts with a cron job, performs in-depth SEO research, generates high-quality articles, creates corresponding social media posts, and then publishes them, all with minimal human intervention.
 
 The entire workflow is orchestrated by **n8n**, with **Google Sheets** acting as the central "brain" and control panel, updated in real-time via webhooks and enhanced with **Google Apps Script**.
 
