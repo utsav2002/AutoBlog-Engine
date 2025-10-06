@@ -12,7 +12,7 @@ The entire workflow is orchestrated by **n8n**, with **Google Sheets** acting as
 
 ---
 
-## 核心功能 (Core Features)
+## 🚀 (Core Features)
 
 * **🤖 Automated SEO Research:** Uses **DataForSEO** and **Gemini** to analyze target audiences, find primary keywords, and conduct other foundational research.
 * **📊 Centralized Control via Google Sheets:** All research data, content ideas, and status updates are managed in a Google Sheet, which acts as the project's single source of truth.
